@@ -1,0 +1,7 @@
+platform,data_source,notes
+Windows,File scanning,Scan suspicious binaries and scripts
+Windows,EDR collected artifacts,Scan quarantined or collected files
+Linux,Filesystem artifacts,Scan scripts and persistence locations
+AWS,Collected scripts and cloud artifacts,Scan incident-response packages and automation repositories
+Web,Web root files,Scan uploaded application files and web directories
+Office,Email attachments and document repositories,Scan suspicious documents
